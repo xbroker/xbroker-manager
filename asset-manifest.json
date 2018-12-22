@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.9307854d.chunk.css",
-  "main.js": "/static/js/main.e7599581.chunk.js",
-  "main.js.map": "/static/js/main.e7599581.chunk.js.map",
-  "static/css/1.eaa926ae.chunk.css": "/static/css/1.eaa926ae.chunk.css",
-  "static/js/1.cfe81b22.chunk.js": "/static/js/1.cfe81b22.chunk.js",
-  "static/js/1.cfe81b22.chunk.js.map": "/static/js/1.cfe81b22.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.9307854d.chunk.css.map": "/static/css/main.9307854d.chunk.css.map",
-  "static/css/1.eaa926ae.chunk.css.map": "/static/css/1.eaa926ae.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.d66236271bb105af581edf2f1cb8a89b.js": "/precache-manifest.d66236271bb105af581edf2f1cb8a89b.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/xbroker-manager/static/css/main.9307854d.chunk.css",
+  "main.js": "/xbroker-manager/static/js/main.fc856181.chunk.js",
+  "main.js.map": "/xbroker-manager/static/js/main.fc856181.chunk.js.map",
+  "static/css/1.eaa926ae.chunk.css": "/xbroker-manager/static/css/1.eaa926ae.chunk.css",
+  "static/js/1.cfe81b22.chunk.js": "/xbroker-manager/static/js/1.cfe81b22.chunk.js",
+  "static/js/1.cfe81b22.chunk.js.map": "/xbroker-manager/static/js/1.cfe81b22.chunk.js.map",
+  "runtime~main.js": "/xbroker-manager/static/js/runtime~main.8022aba0.js",
+  "runtime~main.js.map": "/xbroker-manager/static/js/runtime~main.8022aba0.js.map",
+  "static/css/1.eaa926ae.chunk.css.map": "/xbroker-manager/static/css/1.eaa926ae.chunk.css.map",
+  "static/css/main.9307854d.chunk.css.map": "/xbroker-manager/static/css/main.9307854d.chunk.css.map",
+  "index.html": "/xbroker-manager/index.html",
+  "precache-manifest.690367179e7e59c21cf9ecaa7408fbb5.js": "/xbroker-manager/precache-manifest.690367179e7e59c21cf9ecaa7408fbb5.js",
+  "service-worker.js": "/xbroker-manager/service-worker.js"
 }
